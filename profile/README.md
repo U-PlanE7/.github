@@ -1,6 +1,6 @@
 # U-plan: Tu Compañero Académico
 
-![Logo de U-plan]()
+![Logo de U-plan](https://github.com/U-PlanE7/.github/assets/69770518/a5d35bff-ab43-46cb-8651-d4a8e676f42e)
 
 ¡Bienvenido a U-plan, tu compañero académico definitivo! U-plan es una aplicación móvil diseñada para elevar tu experiencia educativa al siguiente nivel. U-plan tiene herramientas y extensiones para enriquecer tu vida académica.
 
